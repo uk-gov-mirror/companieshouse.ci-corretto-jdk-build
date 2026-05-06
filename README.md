@@ -1,2 +1,2 @@
-# ci-corretto-jdk17-maven-build
-Image used for Amazon Corretto 17 Maven application builds
+# ci-corretto-jdk25-maven-build
+Image used for Amazon Corretto 25 Maven application builds
